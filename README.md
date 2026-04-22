@@ -60,7 +60,7 @@ source ./env/bin/activate
 ### 3. Run the script
 
 ```bash
-python src/plot_scottish_hills.py
+python src/main.py
 ```
 
 The script takes no command line arguments. All paths are resolved relative to the repository root, so it should be run from the top-level directory. The output is saved to `out/scottish_hills.png`.
