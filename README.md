@@ -73,7 +73,9 @@ deactivate
 
 ## Summary of results
 
-<img src="out/scottish_hills.png" alt="Scottish Munros plotted by coordinates and coloured by height" width="500">
+<p align="center">
+  <img src="out/scottish_hills.png" alt="Scottish Munros plotted by coordinates and coloured by height" width="500">
+</p>
 
 The output plot shows the spatial distribution of all 281 Munros across the Scottish Highlands and Islands. A few things are immediately visible from the map:
 
