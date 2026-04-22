@@ -73,6 +73,8 @@ deactivate
 
 ## Summary of results
 
+![Scottish Munros plotted by coordinates and coloured by height](out/scottish_hills.png)
+
 The output plot shows the spatial distribution of all 281 Munros across the Scottish Highlands and Islands. A few things are immediately visible from the map:
 
 - The densest cluster of peaks runs through the central Highlands, roughly between Glen Coe and the Cairngorms.
